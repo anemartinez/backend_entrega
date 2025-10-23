@@ -1,0 +1,9 @@
+# Archivos a ignorar en el repositorio de github
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+
+
